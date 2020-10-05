@@ -58,17 +58,17 @@ In this step, we create a visualization that will track three traffic metrics: m
 
 
 ### Important Notes
-The Pageview API (but not the Pagecount API) allows us to filter by agent=user. Since we're interested in organic (user) traffic, as opposed to traffic by web crawlers or spiders, we have applied this filter
-There was about 1 year of overlapping traffic data between the two APIs. We have used the data from both APIs for this period of time.
+* The Pageview API (but not the Pagecount API) allows us to filter by agent=user. Since we're interested in organic (user) traffic, as opposed to traffic by web crawlers or spiders, we have applied this filter
+* There was about 1 year of overlapping traffic data between the two APIs. We have used the data from both APIs for this period of time.
 
 
 ### Dependencies
 
-numpy
-pandas >= 1.0.0
-matplotlib
-json
-requests
+* numpy
+* pandas >= 1.0.0
+* matplotlib
+* json
+* requests
 
 
 
