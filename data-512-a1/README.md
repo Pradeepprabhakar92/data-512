@@ -32,8 +32,8 @@ The csv file has the following headers
  
 | Column                  | Value     | Datatype |
 |-------------------------|-----------|----------|
-| year                    | YYYY      | int64   |
-| month                   | MM        | int64   |
+| year                    | YYYY      | int64    |
+| month                   | MM        | int64    |
 | pagecount_all_views     | num_views | int64    |
 | pagecount_desktop_views | num_views | int64    |
 | pagecount_mobile_views  | num_views | int64    |
