@@ -32,8 +32,8 @@ The csv file has the following headers
  
 | Column                  | Value     | Datatype |
 |-------------------------|-----------|----------|
-| year                    | YYYY      | object   |
-| month                   | MM        | object   |
+| year                    | YYYY      | int64   |
+| month                   | MM        | int64   |
 | pagecount_all_views     | num_views | int64    |
 | pagecount_desktop_views | num_views | int64    |
 | pagecount_mobile_views  | num_views | int64    |
@@ -44,6 +44,8 @@ The csv file has the following headers
 ### Step 3: Analyze the data
 
 In this step, we create a visualization that will track three traffic metrics: mobile traffic, desktop traffic, and all traffic (mobile + desktop) using matplotlib.
+
+The output is a trend chart image file saved as en_wikipedia_traffic_visualization_200712-202008.png
 
 
 ### Data sources
@@ -69,6 +71,7 @@ In this step, we create a visualization that will track three traffic metrics: m
 * matplotlib
 * json
 * requests
+* datetime
 
 
 
