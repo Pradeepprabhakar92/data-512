@@ -62,9 +62,11 @@ For the first question, commonly used identity terms were selected (not an exhau
 
 
 ![% appearance in aggressive comments vs. all comments](plots/identity_hostile_vs_all_plot_aggressive.png)  
-&nbsp  
+&nbsp;
+  
 ![demographic summary - by gender](plots/demographic_plot_gender_aggression.png)
-&nbsp  
+&nbsp;
+ 
 #### Bias Analysis in Toxicity
 
 | identity     | term_ratio_toxic | term_ratio_overall | term_freq_toxic | term_freq_overall | term_toxic_ratio |
@@ -83,9 +85,11 @@ For the first question, commonly used identity terms were selected (not an exhau
 | white        | 1.22             | 0.98               | 113             | 938               | 12.05            |
 
 ![% appearance in aggressive comments vs. all comments](plots/identity_hostile_vs_all_plot_toxic.png)  
-&nbsp  
+&nbsp;
+  
 ![demographic summary - by age group](plots/demographic_plot_age_group_toxicity.png)  
-&nbsp  
+&nbsp;
+  
 ### Bias Analysis Observations
 
 1) Is there any unintended bias in the training data with respect to the labelling and distribution of identity terms in the comments? 
