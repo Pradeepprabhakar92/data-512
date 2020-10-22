@@ -62,11 +62,9 @@ For the first question, commonly used identity terms were selected (not an exhau
 
 
 ![% appearance in aggressive comments vs. all comments](plots/identity_hostile_vs_all_plot_aggressive.png)  
-&nbsp;
   
 ![demographic summary - by gender](plots/demographic_plot_gender_aggression.png)
-&nbsp;
- 
+
 #### Bias Analysis in Toxicity
 
 | identity     | term_ratio_toxic | term_ratio_overall | term_freq_toxic | term_freq_overall | term_toxic_ratio |
@@ -85,10 +83,8 @@ For the first question, commonly used identity terms were selected (not an exhau
 | white        | 1.22             | 0.98               | 113             | 938               | 12.05            |
 
 ![% appearance in aggressive comments vs. all comments](plots/identity_hostile_vs_all_plot_toxic.png)  
-&nbsp;
   
 ![demographic summary - by age group](plots/demographic_plot_age_group_toxicity.png)  
-&nbsp;
   
 ### Bias Analysis Observations
 
