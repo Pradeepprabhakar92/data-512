@@ -135,5 +135,8 @@ This project is licensed under the terms of the [MIT license](https://github.com
 * seaborn
 * urllib
 
+### References
 
+1. [Ex Machina](https://arxiv.org/abs/1610.08914)
+2. [Unintended bias](https://medium.com/the-false-positive/unintended-bias-and-names-of-frequently-targeted-groups-8e0b81f80a23) - a medium article
 
