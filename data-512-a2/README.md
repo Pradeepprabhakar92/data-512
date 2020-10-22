@@ -82,7 +82,7 @@ For the first question, commonly used identity terms were selected (not an exhau
 | black        | 1.17             | 0.91               | 108             | 871               | 12.4             |
 | white        | 1.22             | 0.98               | 113             | 938               | 12.05            |
 
-![% appearance in aggressive comments vs. all comments](plots/identity_hostile_vs_all_plot_aggressive.png)
+![% appearance in aggressive comments vs. all comments](plots/identity_hostile_vs_all_plot_toxic.png)
 
 ![demographic summary - by age group](plots/demographic_plot_age_group_toxicity.png)
 
